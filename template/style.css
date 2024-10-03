@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    font-family: "Playwrite ES", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+body{ 
+    position: relative;
+    background-image: url('data:image/jpeg;base64,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');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    overflow-y: hidden;
+    padding-top: 25vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.equation-container{ 
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 60px;
+    display: block;
+    font-size: 60px;
+}
+
+form{
+    text-align: center;
+    margin: 0 auto;
+    display: flex;
+    width: 90vw;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+
+form input{
+    margin: 10px;
+    border-radius: 0px;
+    height: 30px;
+    width: 100px;
+    
+}
+
+#A, #B, #C{ 
+    margin: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+#darkener{
+    width: 0;
+    height: 0;
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.9);
+    z-index: 1000;
+    margin: 0;
+    top: 0;
+    left: 0;
+}
+
