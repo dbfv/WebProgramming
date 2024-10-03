@@ -50,15 +50,3 @@ form input{
     justify-content: center;
     align-items: center;
 }
-
-#darkener{
-    width: 0;
-    height: 0;
-    position: absolute;
-    background-color: rgba(0, 0, 0, 0.9);
-    z-index: 1000;
-    margin: 0;
-    top: 0;
-    left: 0;
-}
-
